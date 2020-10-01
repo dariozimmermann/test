@@ -1,1 +1,2 @@
-Mr. Python for President
+Mr. Python for Vice-President
+I'm not Mr. Python. That would be Guido van Rossum.
